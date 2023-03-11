@@ -1,0 +1,1 @@
+print("Hello our teacher, Igor Kozoviy")
